@@ -83,7 +83,7 @@ dt.predict([[0.5,0.8,9,206,6,0,1,2]])
 <img width="1214" height="213" alt="image" src="https://github.com/user-attachments/assets/6a48ec4d-2465-4912-b639-da3d1f343cce" />
 <img width="1240" height="221" alt="image" src="https://github.com/user-attachments/assets/bfb2ef90-30b6-4a83-ba6a-a20045e8b401" />
 <img width="1240" height="50" alt="image" src="https://github.com/user-attachments/assets/fc0f0d39-2b95-43e3-949c-ed727b1a6f08" />
-<img width="1246" height="91" alt="image" src="<img width="809" height="103" alt="Screenshot 2025-09-25 160551" src="https://github.com/user-attachments/assets/dbfe64a5-db1a-4511-b24d-d41c71902d4b" />
+<img width="809" height="103" alt="Screenshot 2025-09-25 160551" src="https://github.com/user-attachments/assets/279bb4ec-90a1-488d-b973-04f4d07cf65c" />
 <img width="1247" height="72" alt="image" src="https://github.com/user-attachments/assets/fd562032-6124-49ff-9ae3-7511387490c5" />
 <img width="1250" height="212" alt="image" src="https://github.com/user-attachments/assets/3044333f-d1c2-4d78-810b-ba17a2b81f14" />
 
